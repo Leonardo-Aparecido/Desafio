@@ -19,7 +19,7 @@ namespace Desafio
             }
             else
             {
-                Console.WriteLine(Math.Pow(numero,2));
+                Console.WriteLine(Math.Pow(numero,2));//Comentario
             }
 
         }
