@@ -24,5 +24,5 @@ namespace Exemplos_do_prof
             Console.WriteLine(carrinho.Modelo);
         }
     }
-
+    
 }
